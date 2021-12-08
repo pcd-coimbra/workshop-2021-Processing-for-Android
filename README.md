@@ -41,3 +41,7 @@
   - In MacOS it is usually located at: `/Users/<username>/Library/Android/sdk` (It might be necessary to show hidden folders with the command CMD+SHIFT+.(DOT))
   - In Windows it is usually located at: `C:\Users\<username>\appdata\local\android\sdk`
 - Finnaly, in the Processing window, go to “Sketch” on the Menu Bar, then tap “Run in Emulator”.
+
+## Submit your results here
+
+https://forms.gle/G32cx2KgYyYTH5zUA
